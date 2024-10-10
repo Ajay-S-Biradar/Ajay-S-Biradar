@@ -1,8 +1,6 @@
-<div style={{display:"flex"}}>
-  <h1 align="center">Hi 👋, I'm Ajay</h1>
-  <h3 align="center">A passionate frontend developer from India</h3>
-  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1728259200&semt=ais_hybrid" height="200" width="200" />
-</div>
+<h1 align="center">Hi 👋, I'm Ajay</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **ajaysbiradar3@gmail.com**
